@@ -1,0 +1,7 @@
+D:\Lab 5 LT C#\Bai 2\bin\Debug\Bai 2.exe.config
+D:\Lab 5 LT C#\Bai 2\bin\Debug\Bai 2.exe
+D:\Lab 5 LT C#\Bai 2\bin\Debug\Bai 2.pdb
+D:\Lab 5 LT C#\Bai 2\obj\Debug\Bai 2.csproj.AssemblyReference.cache
+D:\Lab 5 LT C#\Bai 2\obj\Debug\Bai 2.csproj.CoreCompileInputs.cache
+D:\Lab 5 LT C#\Bai 2\obj\Debug\Bai 2.exe
+D:\Lab 5 LT C#\Bai 2\obj\Debug\Bai 2.pdb
